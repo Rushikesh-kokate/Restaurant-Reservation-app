@@ -1,0 +1,225 @@
+.wrapper {
+  background-color: #313641;
+  width: 1350px;
+  height: 908px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
+.pSize {
+  display: flex;
+}
+.one {
+  width: 56px;
+  height: 56px;
+  border: 1px solid #ebf2ff;
+  margin-right: 3px;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.oneSelected {
+  width: 56px;
+  height: 56px;
+  border: 1px solid #ebf2ff;
+  margin-right: 3px;
+  color: #ffffff;
+  background-color: #ff7e36;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.two {
+  width: 56px;
+  height: 56px;
+  border: 1px solid #ebf2ff;
+  margin-right: 3px;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.twoSelected {
+  width: 56px;
+  height: 56px;
+  border: 1px solid #ebf2ff;
+  background-color: #ff7e36;
+  margin-right: 3px;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.three {
+  width: 56px;
+  height: 56px;
+  border: 1px solid #ebf2ff;
+  margin-right: 3px;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.threeSelected {
+  width: 56px;
+  height: 56px;
+  border: 1px solid #ebf2ff;
+  background-color: #ff7e36;
+  margin-right: 3px;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.four {
+  width: 56px;
+  height: 56px;
+  border: 1px solid #ebf2ff;
+  margin-right: 3px;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.fourSelected {
+  width: 56px;
+  height: 56px;
+  border: 1px solid #ebf2ff;
+  background-color: #ff7e36;
+  margin-right: 3px;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.five {
+  width: 56px;
+  height: 56px;
+  border: 1px solid #ebf2ff;
+  margin-right: 3px;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.fiveSelected {
+  width: 56px;
+  height: 56px;
+  border: 1px solid #ebf2ff;
+  background-color: #ff7e36;
+  margin-right: 3px;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.six {
+  width: 56px;
+  height: 56px;
+  border: 1px solid #ebf2ff;
+  margin-right: 3px;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sixSelected {
+  width: 56px;
+  height: 56px;
+  border: 1px solid #ebf2ff;
+  background-color: #ff7e36;
+  margin-right: 3px;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.seven {
+  width: 56px;
+  height: 56px;
+  border: 1px solid #ebf2ff;
+  margin-right: 3px;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sevenSelected {
+  width: 56px;
+  height: 56px;
+  border: 1px solid #ebf2ff;
+  background-color: #ff7e36;
+  margin-right: 3px;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  width: 56px;
+  height: 56px;
+  border: 1px solid #ebf2ff;
+  background-color: transparent;
+  color: #ffffff;
+  margin-top: 16px;
+}
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  opacity: 1;
+}
+.containerName {
+  display: flex;
+  color: #ffffff;
+  margin-left: 27rem;
+}
+.hero {
+  margin-left: 27rem;
+}
+.food {
+  width: 135px;
+  height: 52px;
+  background-color: transparent;
+  border: 1px solid #a0a4a8;
+  color: #a0a4a8;
+}
+.foodSelected {
+  width: 135px;
+  height: 52px;
+  background-color: #ff7e36;
+  border: 1px solid #a0a4a8;
+  color: #ffffff;
+}
+.snack {
+  width: 135px;
+  height: 52px;
+  background-color: transparent;
+  border: 1px solid #a0a4a8;
+  color: #a0a4a8;
+}
+.snackSelected {
+  width: 135px;
+  height: 52px;
+  background-color: #ff7e36;
+  border: 1px solid #a0a4a8;
+  color: #ffffff;
+}
+.drinks {
+  width: 135px;
+  height: 52px;
+  background-color: transparent;
+  border: 1px solid #a0a4a8;
+  color: #a0a4a8;
+}
+.drinksSelected {
+  width: 135px;
+  height: 52px;
+  background-color: #ff7e36;
+  border: 1px solid #a0a4a8;
+  color: #ffffff;
+}
+.reservationType p {
+  color: #ffffff;
+}

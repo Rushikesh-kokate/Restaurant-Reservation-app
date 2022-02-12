@@ -1,0 +1,266 @@
+.tags {
+  display: flex;
+  align-items: center;
+  margin-left: 260px;
+  color: white;
+}
+.tags p {
+  margin-left: 10px;
+}
+.mainContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.hero2 {
+  width: 823px;
+  height: 120px;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #202632;
+  border: 1px solid rgba(255, 255, 255, 0.87);
+}
+.wrapper2 {
+  width: 807px;
+  height: 104px;
+  border-radius: 4px;
+  background-color: #313641;
+}
+.heroTags {
+  display: flex;
+  flex-direction: column;
+}
+.heroTags1 {
+  display: flex;
+  height: 44px;
+  font-size: 14px;
+  margin-left: 16px;
+}
+.heroTags1 p {
+  margin-right: 5px;
+}
+.BoothRequestedOne {
+  width: 152px;
+  height: 32px;
+  border-radius: 4px;
+  background-color: #fff9f5;
+  color: #e67131;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.BoothRequestedOne1 {
+  width: 152px;
+  height: 32px;
+  border-radius: 4px;
+  background-color: #202632;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+span {
+  margin-left: 10px;
+}
+.HighChair {
+  width: 64px;
+  height: 32px;
+  border-radius: 4px;
+  background-color: #fff9f5;
+  color: #e67131;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.HighChair1 {
+  width: 64px;
+  height: 32px;
+  border-radius: 4px;
+  background-color: #202632;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.BirthdayOne {
+  width: 108px;
+  height: 32px;
+  border-radius: 4px;
+  background-color: #fff9f5;
+  color: #e67131;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.BirthdayOne1 {
+  width: 108px;
+  height: 32px;
+  border-radius: 4px;
+  background-color: #202632;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.BirthdayTwo {
+  width: 134px;
+  height: 32px;
+  border-radius: 4px;
+  background-color: #fff9f5;
+  color: #e67131;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.BirthdayTwo1 {
+  width: 134px;
+  height: 32px;
+  border-radius: 4px;
+  background-color: #202632;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.WheelChair {
+  width: 95px;
+  height: 32px;
+  border-radius: 4px;
+  background-color: #fff9f5;
+  color: #e67131;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.WheelChair1 {
+  width: 95px;
+  height: 32px;
+  border-radius: 4px;
+  background-color: #202632;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.BoothRequestedTwo {
+  width: 78px;
+  height: 32px;
+  border-radius: 4px;
+  background-color: #fff9f5;
+  color: #e67131;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.BoothRequestedTwo1 {
+  width: 78px;
+  height: 32px;
+  border-radius: 4px;
+  background-color: #202632;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.PatioRequested {
+  width: 147px;
+  height: 32px;
+  border-radius: 4px;
+  background-color: #202632;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.PatioRequested1 {
+  width: 147px;
+  height: 32px;
+  border-radius: 4px;
+  background-color: #fff9f5;
+  color: #e67131;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.QuiteTable {
+  width: 99px;
+  height: 32px;
+  border-radius: 4px;
+  background-color: #fff9f5;
+  color: #e67131;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.QuiteTable1 {
+  width: 99px;
+  height: 32px;
+  border-radius: 4px;
+  background-color: #202632;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.SpecialOccasions {
+  width: 152px;
+  height: 32px;
+  border-radius: 4px;
+  background-color: #202632;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.SpecialOccasions1 {
+  width: 152px;
+  height: 32px;
+  border-radius: 4px;
+  background-color: #fff9f5;
+  color: #e67131;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.Graduation {
+  width: 152px;
+  height: 32px;
+  border-radius: 4px;
+  background-color: #202632;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.Graduation1 {
+  width: 152px;
+  height: 32px;
+  border-radius: 4px;
+  background-color: #fff9f5;
+  color: #e67131;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}

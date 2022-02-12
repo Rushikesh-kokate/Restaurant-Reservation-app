@@ -1,0 +1,62 @@
+.wrapper {
+  width: 489px;
+  height: 280px;
+  border-radius: 4px;
+  background-color: #26293f;
+}
+.container {
+  width: 90%;
+  margin-left: auto;
+}
+.hero {
+  margin-left: 16px;
+}
+.guestBook {
+  display: flex;
+  width: 411px;
+  height: 44px;
+  background-color: #202632;
+}
+.guestBook p {
+  padding-left: 15px;
+  color: #ffffff;
+  margin: auto 0;
+}
+.guestName h6 {
+  font-size: 12px;
+}
+.guestName p {
+  margin: 0;
+}
+.cut {
+  margin: auto 0px auto auto;
+  color: white;
+  padding-right: 10px;
+}
+.guestName p {
+  font-size: 14px;
+  color: #ebf2ff;
+}
+.guestAdd p {
+  color: #07a0f6;
+  margin: 0;
+  padding-bottom: 15px;
+}
+img {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  padding-right: 10px;
+}
+.guestName {
+  display: flex;
+  margin-bottom: 16px;
+  height: 45px;
+  justify-content: flex-start;
+}
+.contact {
+  height: 45px;
+}
+.guestName:nth-child(1) {
+  cursor: pointer;
+}

@@ -1,0 +1,154 @@
+@import url("https://cdn.syncfusion.com/ej2/material.css");
+.date {
+  height: 346px;
+  width: 396px;
+  color: white;
+  margin-left: 2.5rem;
+  padding: 1rem;
+}
+
+.food {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10px;
+  align-items: center;
+  width: 311px;
+  height: 64px;
+  background-color: #202632;
+}
+.food1 {
+  padding: 0 10px;
+  width: 48px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #383e4a;
+}
+
+.contanier {
+  display: flex;
+  justify-content: space-around;
+  color: white;
+}
+.heroTime {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 348px;
+  height: 50px;
+  border-color: #202632;
+  color: #c4c4c4;
+  border: 1px solid #dae2e8;
+  border-radius: 4px;
+  position: relative;
+}
+
+.breakfast {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 98px;
+  height: 50px;
+  color: #c4c4c4;
+  background-color: transparent;
+}
+.breakfastSelected {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 98px;
+  height: 50px;
+  color: #ffffff;
+  background-color: #ff7e36;
+}
+.lunch {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 81px;
+  height: 50px;
+  color: #c4c4c4;
+  background-color: transparent;
+}
+.lunchSelected {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 81px;
+  height: 50px;
+  color: #ffffff;
+  background-color: #ff7e36;
+}
+.dinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 81px;
+  height: 50px;
+  color: #c4c4c4;
+  background-color: transparent;
+}
+.dinnerSelected {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 81px;
+  height: 50px;
+  color: #ffffff;
+  background-color: #ff7e36;
+}
+.slotChanger {
+  padding-top: 1rem;
+}
+.available div {
+  display: flex;
+  justify-content: space-between;
+  width: 348px;
+  padding: 0 10px;
+  font-weight: bold;
+}
+.colorChange {
+  color: #f07777;
+}
+.slot1 {
+  color: #e67131;
+  width: 318px;
+  background-color: white;
+}
+.slot2 {
+  color: #e67131;
+  width: 318px;
+  background-color: white;
+}
+.slot3 {
+  color: #e67131;
+  width: 318px;
+  background-color: white;
+}
+.slot4 {
+  color: #e67131;
+  width: 318px;
+  background-color: white;
+}
+.slot5 {
+  color: #e67131;
+  width: 318px;
+  background-color: white;
+}
+.slot6 {
+  color: #e67131;
+  width: 318px;
+  background-color: white;
+}
+.slot7 {
+  color: #e67131;
+  width: 318px;
+  background-color: white;
+}
+.slot8 {
+  color: #e67131;
+  width: 318px;
+  background-color: white;
+}

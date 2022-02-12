@@ -1,0 +1,72 @@
+.container {
+  display: flex;
+  align-items: center;
+  height: 74px;
+  background-color: #202632;
+  color: #e5e5e5;
+}
+.Navbar {
+  width: 262px;
+  height: 48px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px;
+  margin-left: 69.89px;
+  background-color: rgb(107, 100, 100);
+  font-size: 14px;
+}
+.Date {
+  text-align: center;
+  width: 164px;
+  height: 40px;
+  background-color: rgb(107, 100, 100);
+  margin: 1px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+}
+.food {
+  width: 133px;
+  height: 40px;
+  border-radius: 4px;
+  margin-left: 40px;
+  background-color: rgb(107, 100, 100);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+}
+.food p {
+  padding-right: 0.4rem;
+}
+.hamburger {
+  width: 40.89px;
+  height: 23px;
+  padding-left: 1rem;
+}
+.location {
+  width: 21px;
+  height: 21.45px;
+  color: #fb8832;
+}
+.lessThan {
+  width: 40px;
+  height: 40px;
+  padding: 9px, 10px, 9px, 10px;
+  margin-left: 40px;
+  background-color: rgb(107, 100, 100);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.greaterThan {
+  width: 40px;
+  height: 40px;
+  padding: 9px, 10px, 9px, 10px;
+  background-color: rgb(107, 100, 100);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
