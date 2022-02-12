@@ -65,7 +65,7 @@ const CommentsTags = () => {
             <input
               type="text"
               className={classes.inputComments}
-              value="Requested cake for celebration"
+              defaultValue="Requested cake for celebration"
             />
           </div>
         </div>

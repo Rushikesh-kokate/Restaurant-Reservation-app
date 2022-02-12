@@ -12,7 +12,7 @@ const GuestInfo = (props) => {
             <input
               className={classes.firstNameLast}
               type="text"
-              value={props.guestName ? "Sabrina" : ""}
+              defaultValue={props.guestName ? "Sabrina" : ""}
             />
           </div>
           <div>
@@ -23,7 +23,7 @@ const GuestInfo = (props) => {
             <input
               className={classes.phoneNum}
               type="number"
-              value={props.guestName ? "55556650200" : ""}
+              defaultValue={props.guestName ? "55556650200" : ""}
             />
           </div>
         </div>
@@ -33,7 +33,7 @@ const GuestInfo = (props) => {
             <input
               className={classes.firstNameLast}
               type="text"
-              value={props.guestName ? "Stan" : ""}
+              defaultValue={props.guestName ? "Stan" : ""}
             />
           </div>
           <div>

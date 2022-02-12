@@ -12,7 +12,7 @@ const Navbar = () => {
   return (
     <div className={classes.container}>
       <span className={classes.hamburger}>
-        <FaBars size={"lg"} />
+        <FaBars />
       </span>
       <div className={classes.Navbar}>
         <span className={classes.location}>

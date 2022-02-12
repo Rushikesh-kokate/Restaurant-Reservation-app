@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import classes from "./DateTime.module.css";
-// import Calendar from "react-calendar";
+
 import { CalendarComponent } from "@syncfusion/ej2-react-calendars";
 import { FaGlassMartini } from "react-icons/fa";
 import { FaUtensils } from "react-icons/fa";
@@ -8,7 +8,6 @@ import { FaCookie } from "react-icons/fa";
 import { FaCalendarCheck } from "react-icons/fa";
 
 const DateTime = (props) => {
-  // const [value, onChange] = useState(new Date());
   const [reservationFood, setReservationFood] = useState(false);
   const [reservationFood2, setReservationFood2] = useState(false);
   const [reservationFood3, setReservationFood3] = useState(false);
