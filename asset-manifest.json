@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Restaurant-Reservation-app/static/css/main.16daf19d.css",
+    "main.js": "/Restaurant-Reservation-app/static/js/main.6485d935.js",
+    "static/js/787.26da9b02.chunk.js": "/Restaurant-Reservation-app/static/js/787.26da9b02.chunk.js",
+    "static/media/woman-g06c3edef3_1920.jpg": "/Restaurant-Reservation-app/static/media/woman-g06c3edef3_1920.50a5a7e303cb9c739232.jpg",
+    "static/media/woman-gd98f0a80e_1920.jpg": "/Restaurant-Reservation-app/static/media/woman-gd98f0a80e_1920.5ad322ba1726c9900ad6.jpg",
+    "static/media/woman-gf0cb75863_1920.jpg": "/Restaurant-Reservation-app/static/media/woman-gf0cb75863_1920.aa815ab7783091a48208.jpg",
+    "index.html": "/Restaurant-Reservation-app/index.html",
+    "main.16daf19d.css.map": "/Restaurant-Reservation-app/static/css/main.16daf19d.css.map",
+    "main.6485d935.js.map": "/Restaurant-Reservation-app/static/js/main.6485d935.js.map",
+    "787.26da9b02.chunk.js.map": "/Restaurant-Reservation-app/static/js/787.26da9b02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16daf19d.css",
+    "static/js/main.6485d935.js"
+  ]
+}
